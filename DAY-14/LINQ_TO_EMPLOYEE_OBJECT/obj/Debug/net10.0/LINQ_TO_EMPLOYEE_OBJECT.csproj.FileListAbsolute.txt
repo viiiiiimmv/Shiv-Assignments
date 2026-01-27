@@ -1,0 +1,14 @@
+C:\Users\shivc\Desktop\Training\DAY-14\LINQ_TO_EMPLOYEE_OBJECT\obj\Debug\net10.0\LINQ_TO_EMPLOYEE_OBJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivc\Desktop\Training\DAY-14\LINQ_TO_EMPLOYEE_OBJECT\obj\Debug\net10.0\LINQ_TO_EMPLOYEE_OBJECT.AssemblyInfoInputs.cache
+C:\Users\shivc\Desktop\Training\DAY-14\LINQ_TO_EMPLOYEE_OBJECT\obj\Debug\net10.0\LINQ_TO_EMPLOYEE_OBJECT.AssemblyInfo.cs
+C:\Users\shivc\Desktop\Training\DAY-14\LINQ_TO_EMPLOYEE_OBJECT\obj\Debug\net10.0\LINQ_TO_EMPLOYEE_OBJECT.csproj.CoreCompileInputs.cache
+C:\Users\shivc\Desktop\Training\DAY-14\LINQ_TO_EMPLOYEE_OBJECT\bin\Debug\net10.0\LINQ_TO_EMPLOYEE_OBJECT.exe
+C:\Users\shivc\Desktop\Training\DAY-14\LINQ_TO_EMPLOYEE_OBJECT\bin\Debug\net10.0\LINQ_TO_EMPLOYEE_OBJECT.deps.json
+C:\Users\shivc\Desktop\Training\DAY-14\LINQ_TO_EMPLOYEE_OBJECT\bin\Debug\net10.0\LINQ_TO_EMPLOYEE_OBJECT.runtimeconfig.json
+C:\Users\shivc\Desktop\Training\DAY-14\LINQ_TO_EMPLOYEE_OBJECT\bin\Debug\net10.0\LINQ_TO_EMPLOYEE_OBJECT.dll
+C:\Users\shivc\Desktop\Training\DAY-14\LINQ_TO_EMPLOYEE_OBJECT\bin\Debug\net10.0\LINQ_TO_EMPLOYEE_OBJECT.pdb
+C:\Users\shivc\Desktop\Training\DAY-14\LINQ_TO_EMPLOYEE_OBJECT\obj\Debug\net10.0\LINQ_TO_EMPLOYEE_OBJECT.dll
+C:\Users\shivc\Desktop\Training\DAY-14\LINQ_TO_EMPLOYEE_OBJECT\obj\Debug\net10.0\refint\LINQ_TO_EMPLOYEE_OBJECT.dll
+C:\Users\shivc\Desktop\Training\DAY-14\LINQ_TO_EMPLOYEE_OBJECT\obj\Debug\net10.0\LINQ_TO_EMPLOYEE_OBJECT.pdb
+C:\Users\shivc\Desktop\Training\DAY-14\LINQ_TO_EMPLOYEE_OBJECT\obj\Debug\net10.0\LINQ_TO_EMPLOYEE_OBJECT.genruntimeconfig.cache
+C:\Users\shivc\Desktop\Training\DAY-14\LINQ_TO_EMPLOYEE_OBJECT\obj\Debug\net10.0\ref\LINQ_TO_EMPLOYEE_OBJECT.dll

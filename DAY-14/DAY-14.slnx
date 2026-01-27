@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LINQ-TO-CUSTOMER-COPY-CHANGE/LINQ-TO-CUSTOMER-COPY-CHANGE.csproj" />
+  <Project Path="LINQ_TO_EMPLOYEE_OBJECT/LINQ_TO_EMPLOYEE_OBJECT.csproj" />
+  <Project Path="STRUCT/STRUCT.csproj" />
+</Solution>

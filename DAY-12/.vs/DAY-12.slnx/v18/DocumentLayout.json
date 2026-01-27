@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shivc\\Desktop\\Training\\DAY-12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55D05FE0-7CB1-4652-A13B-8B49FC92AE01}|Logins\\Logins.csproj|c:\\users\\shivc\\desktop\\training\\day-12\\logins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D05FE0-7CB1-4652-A13B-8B49FC92AE01}|Logins\\Logins.csproj|solutionrelative:logins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D05FE0-7CB1-4652-A13B-8B49FC92AE01}|Logins\\Logins.csproj|c:\\users\\shivc\\desktop\\training\\day-12\\logins\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D05FE0-7CB1-4652-A13B-8B49FC92AE01}|Logins\\Logins.csproj|solutionrelative:logins\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D05FE0-7CB1-4652-A13B-8B49FC92AE01}|Logins\\Logins.csproj|c:\\users\\shivc\\desktop\\training\\day-12\\logins\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D05FE0-7CB1-4652-A13B-8B49FC92AE01}|Logins\\Logins.csproj|solutionrelative:logins\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D05FE0-7CB1-4652-A13B-8B49FC92AE01}|Logins\\Logins.csproj|c:\\users\\shivc\\desktop\\training\\day-12\\logins\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55D05FE0-7CB1-4652-A13B-8B49FC92AE01}|Logins\\Logins.csproj|solutionrelative:logins\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-12\\Logins\\PersonService.cs",
+              "RelativeDocumentMoniker": "Logins\\PersonService.cs",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-12\\Logins\\PersonService.cs",
+              "RelativeToolTip": "Logins\\PersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:02:26.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-12\\Logins\\Person.cs",
+              "RelativeDocumentMoniker": "Logins\\Person.cs",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-12\\Logins\\Person.cs",
+              "RelativeToolTip": "Logins\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:01:31.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-12\\Logins\\appsettings.json",
+              "RelativeDocumentMoniker": "Logins\\appsettings.json",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-12\\Logins\\appsettings.json",
+              "RelativeToolTip": "Logins\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-19T08:49:06.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-12\\Logins\\Program.cs",
+              "RelativeDocumentMoniker": "Logins\\Program.cs",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-12\\Logins\\Program.cs",
+              "RelativeToolTip": "Logins\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T08:47:16.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

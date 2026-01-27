@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LINQ_TO_EMPLOYEE_OBJECT/1.0.0": {
+        "runtime": {
+          "LINQ_TO_EMPLOYEE_OBJECT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ_TO_EMPLOYEE_OBJECT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shivc\\Desktop\\Training\\DAY-14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D96FE1-BCBB-4B70-8F5C-8B791AFEC0CE}|STRUCT\\STRUCT.csproj|c:\\users\\shivc\\desktop\\training\\day-14\\struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D96FE1-BCBB-4B70-8F5C-8B791AFEC0CE}|STRUCT\\STRUCT.csproj|solutionrelative:struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAF78F3-A975-44CE-B634-D78A994F6FF0}|LINQ-TO-CUSTOMER-COPY-CHANGE\\LINQ-TO-CUSTOMER-COPY-CHANGE.csproj|c:\\users\\shivc\\desktop\\training\\day-14\\linq-to-customer-copy-change\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAF78F3-A975-44CE-B634-D78A994F6FF0}|LINQ-TO-CUSTOMER-COPY-CHANGE\\LINQ-TO-CUSTOMER-COPY-CHANGE.csproj|solutionrelative:linq-to-customer-copy-change\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D22745D-8EAE-4C54-A5A4-292C872061FA}|LINQ_TO_EMPLOYEE_OBJECT\\LINQ_TO_EMPLOYEE_OBJECT.csproj|c:\\users\\shivc\\desktop\\training\\day-14\\linq_to_employee_object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D22745D-8EAE-4C54-A5A4-292C872061FA}|LINQ_TO_EMPLOYEE_OBJECT\\LINQ_TO_EMPLOYEE_OBJECT.csproj|solutionrelative:linq_to_employee_object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D22745D-8EAE-4C54-A5A4-292C872061FA}|LINQ_TO_EMPLOYEE_OBJECT\\LINQ_TO_EMPLOYEE_OBJECT.csproj|c:\\users\\shivc\\desktop\\training\\day-14\\linq_to_employee_object\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D22745D-8EAE-4C54-A5A4-292C872061FA}|LINQ_TO_EMPLOYEE_OBJECT\\LINQ_TO_EMPLOYEE_OBJECT.csproj|solutionrelative:linq_to_employee_object\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D22745D-8EAE-4C54-A5A4-292C872061FA}|LINQ_TO_EMPLOYEE_OBJECT\\LINQ_TO_EMPLOYEE_OBJECT.csproj|c:\\users\\shivc\\desktop\\training\\day-14\\linq_to_employee_object\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D22745D-8EAE-4C54-A5A4-292C872061FA}|LINQ_TO_EMPLOYEE_OBJECT\\LINQ_TO_EMPLOYEE_OBJECT.csproj|solutionrelative:linq_to_employee_object\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-14\\STRUCT\\Program.cs",
+              "RelativeDocumentMoniker": "STRUCT\\Program.cs",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-14\\STRUCT\\Program.cs",
+              "RelativeToolTip": "STRUCT\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T00:14:07.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-14\\LINQ-TO-CUSTOMER-COPY-CHANGE\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ-TO-CUSTOMER-COPY-CHANGE\\Program.cs",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-14\\LINQ-TO-CUSTOMER-COPY-CHANGE\\Program.cs",
+              "RelativeToolTip": "LINQ-TO-CUSTOMER-COPY-CHANGE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T00:00:13.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-14\\LINQ_TO_EMPLOYEE_OBJECT\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "LINQ_TO_EMPLOYEE_OBJECT\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-14\\LINQ_TO_EMPLOYEE_OBJECT\\EmployeeRepository.cs",
+              "RelativeToolTip": "LINQ_TO_EMPLOYEE_OBJECT\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T22:50:33.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-14\\LINQ_TO_EMPLOYEE_OBJECT\\Employee.cs",
+              "RelativeDocumentMoniker": "LINQ_TO_EMPLOYEE_OBJECT\\Employee.cs",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-14\\LINQ_TO_EMPLOYEE_OBJECT\\Employee.cs",
+              "RelativeToolTip": "LINQ_TO_EMPLOYEE_OBJECT\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T22:49:48.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-14\\LINQ_TO_EMPLOYEE_OBJECT\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_TO_EMPLOYEE_OBJECT\\Program.cs",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-14\\LINQ_TO_EMPLOYEE_OBJECT\\Program.cs",
+              "RelativeToolTip": "LINQ_TO_EMPLOYEE_OBJECT\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAF8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T22:47:55.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\bin\Debug\net10.0\FileHandlingUsingConsole.exe
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\bin\Debug\net10.0\sample.txt
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\bin\Debug\net10.0\FileHandlingUsingConsole.deps.json
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\bin\Debug\net10.0\FileHandlingUsingConsole.runtimeconfig.json
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\bin\Debug\net10.0\FileHandlingUsingConsole.dll
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\bin\Debug\net10.0\FileHandlingUsingConsole.pdb
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\obj\Debug\net10.0\FileHandlingUsingConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\obj\Debug\net10.0\FileHandlingUsingConsole.AssemblyInfoInputs.cache
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\obj\Debug\net10.0\FileHandlingUsingConsole.AssemblyInfo.cs
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\obj\Debug\net10.0\FileHandlingUsingConsole.csproj.CoreCompileInputs.cache
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\obj\Debug\net10.0\FileHandlingUsingConsole.dll
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\obj\Debug\net10.0\refint\FileHandlingUsingConsole.dll
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\obj\Debug\net10.0\FileHandlingUsingConsole.pdb
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\obj\Debug\net10.0\FileHandlingUsingConsole.genruntimeconfig.cache
+C:\Users\shivc\Desktop\Training\DAY-12\FileHandlingUsingConsole\obj\Debug\net10.0\ref\FileHandlingUsingConsole.dll

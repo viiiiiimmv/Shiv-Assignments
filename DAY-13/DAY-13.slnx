@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LINQ/LINQ.csproj" />
+  <Project Path="SERIALISATION-DEMO/SERIALISATION-DEMO.csproj" />
+  <Project Path="Serialisation/Serialisation.csproj" />
+</Solution>
