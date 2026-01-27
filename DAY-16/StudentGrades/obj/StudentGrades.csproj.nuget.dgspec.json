@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\StudentGrades\\StudentGrades.csproj": {}
+    "/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/StudentGrades/StudentGrades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\StudentGrades\\StudentGrades.csproj": {
+    "/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/StudentGrades/StudentGrades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\StudentGrades\\StudentGrades.csproj",
+        "projectUniqueName": "/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/StudentGrades/StudentGrades.csproj",
         "projectName": "StudentGrades",
-        "projectPath": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\StudentGrades\\StudentGrades.csproj",
-        "packagesPath": "C:\\Users\\shivc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\StudentGrades\\obj\\",
+        "projectPath": "/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/StudentGrades/StudentGrades.csproj",
+        "packagesPath": "/Users/shivchauhan/.nuget/packages/",
+        "outputPath": "/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/StudentGrades/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\shivc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/shivchauhan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

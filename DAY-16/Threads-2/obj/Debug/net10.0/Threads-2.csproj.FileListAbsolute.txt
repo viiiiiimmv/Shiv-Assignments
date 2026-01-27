@@ -1,0 +1,15 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/bin/Debug/net10.0/Threads-2
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/bin/Debug/net10.0/Threads-2.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/bin/Debug/net10.0/Threads-2.runtimeconfig.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/bin/Debug/net10.0/Threads-2.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/bin/Debug/net10.0/Threads-2.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/obj/Debug/net10.0/Threads-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/obj/Debug/net10.0/Threads-2.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/obj/Debug/net10.0/Threads-2.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/obj/Debug/net10.0/Threads-2.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/obj/Debug/net10.0/Threads-2.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/obj/Debug/net10.0/Threads-2.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/obj/Debug/net10.0/refint/Threads-2.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/obj/Debug/net10.0/Threads-2.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/obj/Debug/net10.0/Threads-2.genruntimeconfig.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-16/Threads-2/obj/Debug/net10.0/ref/Threads-2.dll
