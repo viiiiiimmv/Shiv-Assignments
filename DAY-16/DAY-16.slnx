@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ExpressionBodied/ExpressionBodied.csproj" />
+  <Project Path="PatternMatching/PatternMatching.csproj" />
+  <Project Path="Record/Record.csproj" />
+  <Project Path="StudentGrades/StudentGrades.csproj" />
+  <Project Path="Threads/Threads.csproj" Id="dc10c332-755f-4db1-8f7e-9a66022fafc0" />
+  <Project Path="Tuples/Tuples.csproj" />
+</Solution>

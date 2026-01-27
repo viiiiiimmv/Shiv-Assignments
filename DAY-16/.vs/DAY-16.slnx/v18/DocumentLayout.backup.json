@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC10C332-755F-4DB1-8F7E-9A66022FAFC0}|Threads\\Threads.csproj|c:\\users\\shivc\\desktop\\training\\day-16\\threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC10C332-755F-4DB1-8F7E-9A66022FAFC0}|Threads\\Threads.csproj|solutionrelative:threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F5BA0C-E90B-C315-D05E-28D0AABACE61}|StudentGrades\\StudentGrades.csproj|c:\\users\\shivc\\desktop\\training\\day-16\\studentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F5BA0C-E90B-C315-D05E-28D0AABACE61}|StudentGrades\\StudentGrades.csproj|solutionrelative:studentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EB8926-384D-8324-E18C-B2D67D480B5A}|PatternMatching\\PatternMatching.csproj|c:\\users\\shivc\\desktop\\training\\day-16\\patternmatching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EB8926-384D-8324-E18C-B2D67D480B5A}|PatternMatching\\PatternMatching.csproj|solutionrelative:patternmatching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CD60D9-E7A5-0808-7975-C79B343B5D98}|Tuples\\Tuples.csproj|c:\\users\\shivc\\desktop\\training\\day-16\\tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CD60D9-E7A5-0808-7975-C79B343B5D98}|Tuples\\Tuples.csproj|solutionrelative:tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965A23C3-C33D-D476-5306-033873C1CD23}|ExpressionBodied\\ExpressionBodied.csproj|c:\\users\\shivc\\desktop\\training\\day-16\\expressionbodied\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965A23C3-C33D-D476-5306-033873C1CD23}|ExpressionBodied\\ExpressionBodied.csproj|solutionrelative:expressionbodied\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550A9F0E-C6CF-BE51-B095-FD183A53230F}|Record\\Record.csproj|c:\\users\\shivc\\desktop\\training\\day-16\\record\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550A9F0E-C6CF-BE51-B095-FD183A53230F}|Record\\Record.csproj|solutionrelative:record\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\Threads\\Program.cs",
+              "RelativeDocumentMoniker": "Threads\\Program.cs",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\Threads\\Program.cs",
+              "RelativeToolTip": "Threads\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:47:48.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\StudentGrades\\Program.cs",
+              "RelativeDocumentMoniker": "StudentGrades\\Program.cs",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\StudentGrades\\Program.cs",
+              "RelativeToolTip": "StudentGrades\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T08:03:37.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\PatternMatching\\Program.cs",
+              "RelativeDocumentMoniker": "PatternMatching\\Program.cs",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\PatternMatching\\Program.cs",
+              "RelativeToolTip": "PatternMatching\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:53:49.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\Tuples\\Program.cs",
+              "RelativeDocumentMoniker": "Tuples\\Program.cs",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\Tuples\\Program.cs",
+              "RelativeToolTip": "Tuples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:44:49.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\ExpressionBodied\\Program.cs",
+              "RelativeDocumentMoniker": "ExpressionBodied\\Program.cs",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\ExpressionBodied\\Program.cs",
+              "RelativeToolTip": "ExpressionBodied\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:08:49.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\Record\\Program.cs",
+              "RelativeDocumentMoniker": "Record\\Program.cs",
+              "ToolTip": "C:\\Users\\shivc\\Desktop\\Training\\DAY-16\\Record\\Program.cs",
+              "RelativeToolTip": "Record\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:55:33.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

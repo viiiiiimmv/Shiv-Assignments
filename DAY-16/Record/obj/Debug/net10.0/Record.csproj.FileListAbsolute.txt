@@ -1,0 +1,14 @@
+C:\Users\shivc\Desktop\Training\DAY-16\Record\bin\Debug\net10.0\Record.exe
+C:\Users\shivc\Desktop\Training\DAY-16\Record\bin\Debug\net10.0\Record.deps.json
+C:\Users\shivc\Desktop\Training\DAY-16\Record\bin\Debug\net10.0\Record.runtimeconfig.json
+C:\Users\shivc\Desktop\Training\DAY-16\Record\bin\Debug\net10.0\Record.dll
+C:\Users\shivc\Desktop\Training\DAY-16\Record\bin\Debug\net10.0\Record.pdb
+C:\Users\shivc\Desktop\Training\DAY-16\Record\obj\Debug\net10.0\Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivc\Desktop\Training\DAY-16\Record\obj\Debug\net10.0\Record.AssemblyInfoInputs.cache
+C:\Users\shivc\Desktop\Training\DAY-16\Record\obj\Debug\net10.0\Record.AssemblyInfo.cs
+C:\Users\shivc\Desktop\Training\DAY-16\Record\obj\Debug\net10.0\Record.csproj.CoreCompileInputs.cache
+C:\Users\shivc\Desktop\Training\DAY-16\Record\obj\Debug\net10.0\Record.dll
+C:\Users\shivc\Desktop\Training\DAY-16\Record\obj\Debug\net10.0\refint\Record.dll
+C:\Users\shivc\Desktop\Training\DAY-16\Record\obj\Debug\net10.0\Record.pdb
+C:\Users\shivc\Desktop\Training\DAY-16\Record\obj\Debug\net10.0\Record.genruntimeconfig.cache
+C:\Users\shivc\Desktop\Training\DAY-16\Record\obj\Debug\net10.0\ref\Record.dll

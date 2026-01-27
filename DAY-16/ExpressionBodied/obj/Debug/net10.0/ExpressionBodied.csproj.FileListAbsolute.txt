@@ -1,0 +1,14 @@
+C:\Users\shivc\Desktop\Training\DAY-16\ExpressionBodied\bin\Debug\net10.0\ExpressionBodied.exe
+C:\Users\shivc\Desktop\Training\DAY-16\ExpressionBodied\bin\Debug\net10.0\ExpressionBodied.deps.json
+C:\Users\shivc\Desktop\Training\DAY-16\ExpressionBodied\bin\Debug\net10.0\ExpressionBodied.runtimeconfig.json
+C:\Users\shivc\Desktop\Training\DAY-16\ExpressionBodied\bin\Debug\net10.0\ExpressionBodied.dll
+C:\Users\shivc\Desktop\Training\DAY-16\ExpressionBodied\bin\Debug\net10.0\ExpressionBodied.pdb
+C:\Users\shivc\Desktop\Training\DAY-16\ExpressionBodied\obj\Debug\net10.0\ExpressionBodied.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivc\Desktop\Training\DAY-16\ExpressionBodied\obj\Debug\net10.0\ExpressionBodied.AssemblyInfoInputs.cache
+C:\Users\shivc\Desktop\Training\DAY-16\ExpressionBodied\obj\Debug\net10.0\ExpressionBodied.AssemblyInfo.cs
+C:\Users\shivc\Desktop\Training\DAY-16\ExpressionBodied\obj\Debug\net10.0\ExpressionBodied.csproj.CoreCompileInputs.cache
+C:\Users\shivc\Desktop\Training\DAY-16\ExpressionBodied\obj\Debug\net10.0\ExpressionBodied.dll
+C:\Users\shivc\Desktop\Training\DAY-16\ExpressionBodied\obj\Debug\net10.0\refint\ExpressionBodied.dll
+C:\Users\shivc\Desktop\Training\DAY-16\ExpressionBodied\obj\Debug\net10.0\ExpressionBodied.pdb
+C:\Users\shivc\Desktop\Training\DAY-16\ExpressionBodied\obj\Debug\net10.0\ExpressionBodied.genruntimeconfig.cache
+C:\Users\shivc\Desktop\Training\DAY-16\ExpressionBodied\obj\Debug\net10.0\ref\ExpressionBodied.dll

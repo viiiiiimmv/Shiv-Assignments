@@ -1,0 +1,14 @@
+C:\Users\shivc\Desktop\Training\DAY-16\StudentGrades\bin\Debug\net10.0\StudentGrades.exe
+C:\Users\shivc\Desktop\Training\DAY-16\StudentGrades\bin\Debug\net10.0\StudentGrades.deps.json
+C:\Users\shivc\Desktop\Training\DAY-16\StudentGrades\bin\Debug\net10.0\StudentGrades.runtimeconfig.json
+C:\Users\shivc\Desktop\Training\DAY-16\StudentGrades\bin\Debug\net10.0\StudentGrades.dll
+C:\Users\shivc\Desktop\Training\DAY-16\StudentGrades\bin\Debug\net10.0\StudentGrades.pdb
+C:\Users\shivc\Desktop\Training\DAY-16\StudentGrades\obj\Debug\net10.0\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivc\Desktop\Training\DAY-16\StudentGrades\obj\Debug\net10.0\StudentGrades.AssemblyInfoInputs.cache
+C:\Users\shivc\Desktop\Training\DAY-16\StudentGrades\obj\Debug\net10.0\StudentGrades.AssemblyInfo.cs
+C:\Users\shivc\Desktop\Training\DAY-16\StudentGrades\obj\Debug\net10.0\StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\shivc\Desktop\Training\DAY-16\StudentGrades\obj\Debug\net10.0\StudentGrades.dll
+C:\Users\shivc\Desktop\Training\DAY-16\StudentGrades\obj\Debug\net10.0\refint\StudentGrades.dll
+C:\Users\shivc\Desktop\Training\DAY-16\StudentGrades\obj\Debug\net10.0\StudentGrades.pdb
+C:\Users\shivc\Desktop\Training\DAY-16\StudentGrades\obj\Debug\net10.0\StudentGrades.genruntimeconfig.cache
+C:\Users\shivc\Desktop\Training\DAY-16\StudentGrades\obj\Debug\net10.0\ref\StudentGrades.dll
