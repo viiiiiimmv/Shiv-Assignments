@@ -1,0 +1,15 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/bin/Debug/net10.0/EmployeeInheritance
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/bin/Debug/net10.0/EmployeeInheritance.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/bin/Debug/net10.0/EmployeeInheritance.runtimeconfig.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/bin/Debug/net10.0/EmployeeInheritance.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/bin/Debug/net10.0/EmployeeInheritance.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/obj/Debug/net10.0/EmployeeInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/obj/Debug/net10.0/EmployeeInheritance.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/obj/Debug/net10.0/EmployeeInheritance.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/obj/Debug/net10.0/EmployeeInheritance.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/obj/Debug/net10.0/EmployeeInheritance.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/obj/Debug/net10.0/EmployeeInheritance.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/obj/Debug/net10.0/refint/EmployeeInheritance.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/obj/Debug/net10.0/EmployeeInheritance.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/obj/Debug/net10.0/EmployeeInheritance.genruntimeconfig.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/EmployeeInheritance/obj/Debug/net10.0/ref/EmployeeInheritance.dll

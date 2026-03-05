@@ -1,0 +1,15 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/bin/Debug/net10.0/IEnumberable
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/bin/Debug/net10.0/IEnumberable.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/bin/Debug/net10.0/IEnumberable.runtimeconfig.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/bin/Debug/net10.0/IEnumberable.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/bin/Debug/net10.0/IEnumberable.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/obj/Debug/net10.0/IEnumberable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/obj/Debug/net10.0/IEnumberable.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/obj/Debug/net10.0/IEnumberable.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/obj/Debug/net10.0/IEnumberable.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/obj/Debug/net10.0/IEnumberable.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/obj/Debug/net10.0/IEnumberable.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/obj/Debug/net10.0/refint/IEnumberable.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/obj/Debug/net10.0/IEnumberable.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/obj/Debug/net10.0/IEnumberable.genruntimeconfig.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/IEnumberable/obj/Debug/net10.0/ref/IEnumberable.dll

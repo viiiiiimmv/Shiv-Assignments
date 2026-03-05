@@ -1,0 +1,15 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/bin/Debug/net10.0/DistanceBetweenPoints
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/bin/Debug/net10.0/DistanceBetweenPoints.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/bin/Debug/net10.0/DistanceBetweenPoints.runtimeconfig.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/bin/Debug/net10.0/DistanceBetweenPoints.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/bin/Debug/net10.0/DistanceBetweenPoints.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/obj/Debug/net10.0/DistanceBetweenPoints.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/obj/Debug/net10.0/DistanceBetweenPoints.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/obj/Debug/net10.0/DistanceBetweenPoints.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/obj/Debug/net10.0/DistanceBetweenPoints.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/obj/Debug/net10.0/DistanceBetweenPoints.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/obj/Debug/net10.0/DistanceBetweenPoints.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/obj/Debug/net10.0/refint/DistanceBetweenPoints.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/obj/Debug/net10.0/DistanceBetweenPoints.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/obj/Debug/net10.0/DistanceBetweenPoints.genruntimeconfig.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/DistanceBetweenPoints/obj/Debug/net10.0/ref/DistanceBetweenPoints.dll

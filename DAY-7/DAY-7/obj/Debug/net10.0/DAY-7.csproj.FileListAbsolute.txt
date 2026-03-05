@@ -1,0 +1,14 @@
+/Users/shivchauhan/Work/Training/DAY-7/DAY-7/bin/Debug/net10.0/DAY-7
+/Users/shivchauhan/Work/Training/DAY-7/DAY-7/bin/Debug/net10.0/DAY-7.deps.json
+/Users/shivchauhan/Work/Training/DAY-7/DAY-7/bin/Debug/net10.0/DAY-7.runtimeconfig.json
+/Users/shivchauhan/Work/Training/DAY-7/DAY-7/bin/Debug/net10.0/DAY-7.dll
+/Users/shivchauhan/Work/Training/DAY-7/DAY-7/bin/Debug/net10.0/DAY-7.pdb
+/Users/shivchauhan/Work/Training/DAY-7/DAY-7/obj/Debug/net10.0/DAY-7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/Training/DAY-7/DAY-7/obj/Debug/net10.0/DAY-7.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/Training/DAY-7/DAY-7/obj/Debug/net10.0/DAY-7.AssemblyInfo.cs
+/Users/shivchauhan/Work/Training/DAY-7/DAY-7/obj/Debug/net10.0/DAY-7.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/Training/DAY-7/DAY-7/obj/Debug/net10.0/DAY-7.dll
+/Users/shivchauhan/Work/Training/DAY-7/DAY-7/obj/Debug/net10.0/refint/DAY-7.dll
+/Users/shivchauhan/Work/Training/DAY-7/DAY-7/obj/Debug/net10.0/DAY-7.pdb
+/Users/shivchauhan/Work/Training/DAY-7/DAY-7/obj/Debug/net10.0/DAY-7.genruntimeconfig.cache
+/Users/shivchauhan/Work/Training/DAY-7/DAY-7/obj/Debug/net10.0/ref/DAY-7.dll

@@ -1,0 +1,15 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/bin/Debug/net10.0/LAZY-LOADING
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/bin/Debug/net10.0/LAZY-LOADING.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/bin/Debug/net10.0/LAZY-LOADING.runtimeconfig.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/bin/Debug/net10.0/LAZY-LOADING.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/bin/Debug/net10.0/LAZY-LOADING.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/obj/Debug/net10.0/LAZY-LOADING.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/obj/Debug/net10.0/LAZY-LOADING.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/obj/Debug/net10.0/LAZY-LOADING.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/obj/Debug/net10.0/LAZY-LOADING.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/obj/Debug/net10.0/LAZY-LOADING.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/obj/Debug/net10.0/LAZY-LOADING.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/obj/Debug/net10.0/refint/LAZY-LOADING.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/obj/Debug/net10.0/LAZY-LOADING.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/obj/Debug/net10.0/LAZY-LOADING.genruntimeconfig.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-32/LAZY-LOADING/obj/Debug/net10.0/ref/LAZY-LOADING.dll

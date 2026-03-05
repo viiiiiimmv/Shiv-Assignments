@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NUNIT-TESTIING/NUNIT-TESTIING.csproj" />
+  <Project Path="TESTING-CODE/TESTING-CODE.csproj" />
+</Solution>

@@ -1,0 +1,12 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-INTRODUCTION/bin/Debug/net10.0/TESTING-INTRODUCTION.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-INTRODUCTION/bin/Debug/net10.0/TESTING-INTRODUCTION.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-INTRODUCTION/bin/Debug/net10.0/TESTING-INTRODUCTION.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-INTRODUCTION/obj/Debug/net10.0/TESTING-INTRODUCTION.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-INTRODUCTION/obj/Debug/net10.0/TESTING-INTRODUCTION.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-INTRODUCTION/obj/Debug/net10.0/TESTING-INTRODUCTION.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-INTRODUCTION/obj/Debug/net10.0/TESTING-INTRODUCTION.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-INTRODUCTION/obj/Debug/net10.0/TESTING-INTRODUCTION.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-INTRODUCTION/obj/Debug/net10.0/TESTING-INTRODUCTION.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-INTRODUCTION/obj/Debug/net10.0/refint/TESTING-INTRODUCTION.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-INTRODUCTION/obj/Debug/net10.0/TESTING-INTRODUCTION.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-INTRODUCTION/obj/Debug/net10.0/ref/TESTING-INTRODUCTION.dll

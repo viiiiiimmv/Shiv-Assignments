@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SEAT_BOOKING_SYSTEM/1.0.0": {
+        "runtime": {
+          "SEAT_BOOKING_SYSTEM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEAT_BOOKING_SYSTEM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

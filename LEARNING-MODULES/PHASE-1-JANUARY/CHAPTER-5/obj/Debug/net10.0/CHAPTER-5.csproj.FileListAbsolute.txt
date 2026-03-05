@@ -1,0 +1,15 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/bin/Debug/net10.0/CHAPTER-5
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/bin/Debug/net10.0/CHAPTER-5.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/bin/Debug/net10.0/CHAPTER-5.runtimeconfig.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/bin/Debug/net10.0/CHAPTER-5.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/bin/Debug/net10.0/CHAPTER-5.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/obj/Debug/net10.0/CHAPTER-5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/obj/Debug/net10.0/CHAPTER-5.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/obj/Debug/net10.0/CHAPTER-5.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/obj/Debug/net10.0/CHAPTER-5.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/obj/Debug/net10.0/CHAPTER-5.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/obj/Debug/net10.0/CHAPTER-5.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/obj/Debug/net10.0/refint/CHAPTER-5.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/obj/Debug/net10.0/CHAPTER-5.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/obj/Debug/net10.0/CHAPTER-5.genruntimeconfig.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-1-JANUARY/CHAPTER-5/obj/Debug/net10.0/ref/CHAPTER-5.dll

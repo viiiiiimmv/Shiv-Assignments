@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="IEnumberable/IEnumberable.csproj" />
+  <Project Path="IMMEDIATE-EXECUTION/IMMEDIATE-EXECUTION.csproj" />
+  <Project Path="LAZY-LOADING/LAZY-LOADING.csproj" />
+</Solution>

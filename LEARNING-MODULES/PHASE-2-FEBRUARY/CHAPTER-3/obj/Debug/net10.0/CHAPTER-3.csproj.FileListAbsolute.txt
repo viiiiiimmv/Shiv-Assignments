@@ -1,0 +1,15 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/bin/Debug/net10.0/CHAPTER-3
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/bin/Debug/net10.0/CHAPTER-3.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/bin/Debug/net10.0/CHAPTER-3.runtimeconfig.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/bin/Debug/net10.0/CHAPTER-3.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/bin/Debug/net10.0/CHAPTER-3.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/obj/Debug/net10.0/CHAPTER-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/obj/Debug/net10.0/CHAPTER-3.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/obj/Debug/net10.0/CHAPTER-3.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/obj/Debug/net10.0/CHAPTER-3.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/obj/Debug/net10.0/CHAPTER-3.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/obj/Debug/net10.0/CHAPTER-3.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/obj/Debug/net10.0/refint/CHAPTER-3.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/obj/Debug/net10.0/CHAPTER-3.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/obj/Debug/net10.0/CHAPTER-3.genruntimeconfig.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/LEARNING-MODULES/PHASE-2-FEBRUARY/CHAPTER-3/obj/Debug/net10.0/ref/CHAPTER-3.dll

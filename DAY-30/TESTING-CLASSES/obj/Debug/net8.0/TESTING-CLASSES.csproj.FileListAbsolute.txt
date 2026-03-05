@@ -1,0 +1,12 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-CLASSES/bin/Debug/net8.0/TESTING-CLASSES.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-CLASSES/bin/Debug/net8.0/TESTING-CLASSES.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-CLASSES/bin/Debug/net8.0/TESTING-CLASSES.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-CLASSES/obj/Debug/net8.0/TESTING-CLASSES.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-CLASSES/obj/Debug/net8.0/TESTING-CLASSES.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-CLASSES/obj/Debug/net8.0/TESTING-CLASSES.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-CLASSES/obj/Debug/net8.0/TESTING-CLASSES.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-CLASSES/obj/Debug/net8.0/TESTING-CLASSES.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-CLASSES/obj/Debug/net8.0/TESTING-CLASSES.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-CLASSES/obj/Debug/net8.0/refint/TESTING-CLASSES.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-CLASSES/obj/Debug/net8.0/TESTING-CLASSES.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-30/TESTING-CLASSES/obj/Debug/net8.0/ref/TESTING-CLASSES.dll

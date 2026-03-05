@@ -1,0 +1,15 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/bin/Debug/net10.0/ZOO-MANAGEMENT
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/bin/Debug/net10.0/ZOO-MANAGEMENT.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/bin/Debug/net10.0/ZOO-MANAGEMENT.runtimeconfig.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/bin/Debug/net10.0/ZOO-MANAGEMENT.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/bin/Debug/net10.0/ZOO-MANAGEMENT.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/obj/Debug/net10.0/ZOO-MANAGEMENT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/obj/Debug/net10.0/ZOO-MANAGEMENT.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/obj/Debug/net10.0/ZOO-MANAGEMENT.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/obj/Debug/net10.0/ZOO-MANAGEMENT.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/obj/Debug/net10.0/ZOO-MANAGEMENT.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/obj/Debug/net10.0/ZOO-MANAGEMENT.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/obj/Debug/net10.0/refint/ZOO-MANAGEMENT.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/obj/Debug/net10.0/ZOO-MANAGEMENT.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/obj/Debug/net10.0/ZOO-MANAGEMENT.genruntimeconfig.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/ZOO-MANAGEMENT/obj/Debug/net10.0/ref/ZOO-MANAGEMENT.dll

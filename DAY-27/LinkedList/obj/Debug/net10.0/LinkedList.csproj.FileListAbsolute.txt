@@ -1,0 +1,15 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/bin/Debug/net10.0/LinkedList
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/bin/Debug/net10.0/LinkedList.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/bin/Debug/net10.0/LinkedList.runtimeconfig.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/bin/Debug/net10.0/LinkedList.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/bin/Debug/net10.0/LinkedList.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/obj/Debug/net10.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/obj/Debug/net10.0/LinkedList.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/obj/Debug/net10.0/LinkedList.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/obj/Debug/net10.0/LinkedList.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/obj/Debug/net10.0/LinkedList.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/obj/Debug/net10.0/LinkedList.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/obj/Debug/net10.0/refint/LinkedList.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/obj/Debug/net10.0/LinkedList.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/obj/Debug/net10.0/LinkedList.genruntimeconfig.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/DAY-27/LinkedList/obj/Debug/net10.0/ref/LinkedList.dll

@@ -4,23 +4,53 @@ namespace PROBLEM_3;
 
 class Program
 {
-    public static bool ValidateNumberPlate(string number)
+    public static void ValidateNumberPlate(string number)
     {
-        var pattern = @"^[A-Z]{2}\d{2}[A-Z]{2}\d{4}$";
-        return Regex.IsMatch(number, pattern);
+        if (string.IsNullOrWhiteSpace(number))
+        {
+            Console.WriteLine("INVALID FORMAT - EMPTY INPUT");
+            return;
+        }
+
+        if (number.Length != 12)
+        {
+            Console.WriteLine($"{number} : INVALID FORMAT - INAPPROPRIATE LENGTH");
+            return;
+        }
+
+        for (int i = 0; i < number.Length; i++)
+        {
+            char c = number[i];
+
+            if (i == 4 || i == 7)
+            {
+                if (c != ' ')
+                {
+                    Console.WriteLine($"{number} : INVALID FORMAT - SPACE EXPECTED");
+                    return;
+                }
+            }
+            else
+            {
+                if (!char.IsLetterOrDigit(c))
+                {
+                    Console.WriteLine($"{number} : INVALID FORMAT - INVALID CHARACTER");
+                    return;
+                }
+            }
+        }
+
+        var pattern = @"^[A-Z]{2}\d{2}\s[A-Z]{2}\s\d{4}$";
+
+        if (Regex.IsMatch(number, pattern))
+            Console.WriteLine($"{number} : VALID FORMAT");
+        else
+            Console.WriteLine($"{number} : INVALID FORMAT");
     }
+
     static void Main(string[] args)
     {
         string str = Console.ReadLine();
-        bool output =  ValidateNumberPlate(str);
-
-        if (output)
-        {
-            Console.WriteLine($"{str} is valid");
-        }
-        else
-        {
-            Console.WriteLine($"{str} is not valid");
-        }
+        ValidateNumberPlate(str);
     }
 }

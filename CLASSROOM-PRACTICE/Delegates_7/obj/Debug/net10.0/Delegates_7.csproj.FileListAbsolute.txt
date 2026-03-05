@@ -1,0 +1,15 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/bin/Debug/net10.0/Delegates_7
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/bin/Debug/net10.0/Delegates_7.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/bin/Debug/net10.0/Delegates_7.runtimeconfig.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/bin/Debug/net10.0/Delegates_7.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/bin/Debug/net10.0/Delegates_7.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/obj/Debug/net10.0/Delegates_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/obj/Debug/net10.0/Delegates_7.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/obj/Debug/net10.0/Delegates_7.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/obj/Debug/net10.0/Delegates_7.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/obj/Debug/net10.0/Delegates_7.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/obj/Debug/net10.0/Delegates_7.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/obj/Debug/net10.0/refint/Delegates_7.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/obj/Debug/net10.0/Delegates_7.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/obj/Debug/net10.0/Delegates_7.genruntimeconfig.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/Delegates_7/obj/Debug/net10.0/ref/Delegates_7.dll

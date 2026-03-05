@@ -1,0 +1,15 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/bin/Debug/net10.0/QUESTION-3
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/bin/Debug/net10.0/QUESTION-3.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/bin/Debug/net10.0/QUESTION-3.runtimeconfig.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/bin/Debug/net10.0/QUESTION-3.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/bin/Debug/net10.0/QUESTION-3.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/obj/Debug/net10.0/QUESTION-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/obj/Debug/net10.0/QUESTION-3.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/obj/Debug/net10.0/QUESTION-3.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/obj/Debug/net10.0/QUESTION-3.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/obj/Debug/net10.0/QUESTION-3.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/obj/Debug/net10.0/QUESTION-3.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/obj/Debug/net10.0/refint/QUESTION-3.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/obj/Debug/net10.0/QUESTION-3.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/obj/Debug/net10.0/QUESTION-3.genruntimeconfig.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-3/obj/Debug/net10.0/ref/QUESTION-3.dll

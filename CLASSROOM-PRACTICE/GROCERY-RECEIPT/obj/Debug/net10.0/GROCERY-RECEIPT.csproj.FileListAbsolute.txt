@@ -1,0 +1,15 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/bin/Debug/net10.0/GROCERY-RECEIPT
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/bin/Debug/net10.0/GROCERY-RECEIPT.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/bin/Debug/net10.0/GROCERY-RECEIPT.runtimeconfig.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/bin/Debug/net10.0/GROCERY-RECEIPT.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/bin/Debug/net10.0/GROCERY-RECEIPT.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/obj/Debug/net10.0/GROCERY-RECEIPT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/obj/Debug/net10.0/GROCERY-RECEIPT.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/obj/Debug/net10.0/GROCERY-RECEIPT.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/obj/Debug/net10.0/GROCERY-RECEIPT.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/obj/Debug/net10.0/GROCERY-RECEIPT.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/obj/Debug/net10.0/GROCERY-RECEIPT.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/obj/Debug/net10.0/refint/GROCERY-RECEIPT.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/obj/Debug/net10.0/GROCERY-RECEIPT.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/obj/Debug/net10.0/GROCERY-RECEIPT.genruntimeconfig.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/GROCERY-RECEIPT/obj/Debug/net10.0/ref/GROCERY-RECEIPT.dll

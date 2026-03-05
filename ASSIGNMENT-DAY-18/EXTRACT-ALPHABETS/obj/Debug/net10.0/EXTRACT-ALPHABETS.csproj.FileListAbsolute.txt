@@ -1,0 +1,14 @@
+/Users/shivchauhan/Work/Training/ASSSIGNMENT-DAY-18/EXTRACT-ALPHABETS/bin/Debug/net10.0/EXTRACT-ALPHABETS
+/Users/shivchauhan/Work/Training/ASSSIGNMENT-DAY-18/EXTRACT-ALPHABETS/bin/Debug/net10.0/EXTRACT-ALPHABETS.deps.json
+/Users/shivchauhan/Work/Training/ASSSIGNMENT-DAY-18/EXTRACT-ALPHABETS/bin/Debug/net10.0/EXTRACT-ALPHABETS.runtimeconfig.json
+/Users/shivchauhan/Work/Training/ASSSIGNMENT-DAY-18/EXTRACT-ALPHABETS/bin/Debug/net10.0/EXTRACT-ALPHABETS.dll
+/Users/shivchauhan/Work/Training/ASSSIGNMENT-DAY-18/EXTRACT-ALPHABETS/bin/Debug/net10.0/EXTRACT-ALPHABETS.pdb
+/Users/shivchauhan/Work/Training/ASSSIGNMENT-DAY-18/EXTRACT-ALPHABETS/obj/Debug/net10.0/EXTRACT-ALPHABETS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/Training/ASSSIGNMENT-DAY-18/EXTRACT-ALPHABETS/obj/Debug/net10.0/EXTRACT-ALPHABETS.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/Training/ASSSIGNMENT-DAY-18/EXTRACT-ALPHABETS/obj/Debug/net10.0/EXTRACT-ALPHABETS.AssemblyInfo.cs
+/Users/shivchauhan/Work/Training/ASSSIGNMENT-DAY-18/EXTRACT-ALPHABETS/obj/Debug/net10.0/EXTRACT-ALPHABETS.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/Training/ASSSIGNMENT-DAY-18/EXTRACT-ALPHABETS/obj/Debug/net10.0/EXTRACT-ALPHABETS.dll
+/Users/shivchauhan/Work/Training/ASSSIGNMENT-DAY-18/EXTRACT-ALPHABETS/obj/Debug/net10.0/refint/EXTRACT-ALPHABETS.dll
+/Users/shivchauhan/Work/Training/ASSSIGNMENT-DAY-18/EXTRACT-ALPHABETS/obj/Debug/net10.0/EXTRACT-ALPHABETS.pdb
+/Users/shivchauhan/Work/Training/ASSSIGNMENT-DAY-18/EXTRACT-ALPHABETS/obj/Debug/net10.0/EXTRACT-ALPHABETS.genruntimeconfig.cache
+/Users/shivchauhan/Work/Training/ASSSIGNMENT-DAY-18/EXTRACT-ALPHABETS/obj/Debug/net10.0/ref/EXTRACT-ALPHABETS.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="INTRO_MODULE/INTRO_MODULE.csproj" />
+  <Project Path="MOCK-TESTING/MOCK-TESTING.csproj" />
+  <Project Path="NUNIT-DEMO/NUNIT-DEMO.csproj" />
+  <Project Path="TDD/TDD.csproj" />
+</Solution>

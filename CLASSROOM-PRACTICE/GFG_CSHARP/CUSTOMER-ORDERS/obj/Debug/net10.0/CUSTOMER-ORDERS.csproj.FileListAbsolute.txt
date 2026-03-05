@@ -1,0 +1,15 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/bin/Debug/net10.0/CUSTOMER-ORDERS
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/bin/Debug/net10.0/CUSTOMER-ORDERS.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/bin/Debug/net10.0/CUSTOMER-ORDERS.runtimeconfig.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/bin/Debug/net10.0/CUSTOMER-ORDERS.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/bin/Debug/net10.0/CUSTOMER-ORDERS.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/obj/Debug/net10.0/CUSTOMER-ORDERS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/obj/Debug/net10.0/CUSTOMER-ORDERS.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/obj/Debug/net10.0/CUSTOMER-ORDERS.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/obj/Debug/net10.0/CUSTOMER-ORDERS.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/obj/Debug/net10.0/CUSTOMER-ORDERS.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/obj/Debug/net10.0/CUSTOMER-ORDERS.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/obj/Debug/net10.0/refint/CUSTOMER-ORDERS.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/obj/Debug/net10.0/CUSTOMER-ORDERS.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/obj/Debug/net10.0/CUSTOMER-ORDERS.genruntimeconfig.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/CUSTOMER-ORDERS/obj/Debug/net10.0/ref/CUSTOMER-ORDERS.dll

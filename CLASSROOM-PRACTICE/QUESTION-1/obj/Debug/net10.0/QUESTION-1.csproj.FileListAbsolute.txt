@@ -1,0 +1,15 @@
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/bin/Debug/net10.0/QUESTION-1
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/bin/Debug/net10.0/QUESTION-1.deps.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/bin/Debug/net10.0/QUESTION-1.runtimeconfig.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/bin/Debug/net10.0/QUESTION-1.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/bin/Debug/net10.0/QUESTION-1.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/obj/Debug/net10.0/QUESTION-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/obj/Debug/net10.0/QUESTION-1.AssemblyInfoInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/obj/Debug/net10.0/QUESTION-1.AssemblyInfo.cs
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/obj/Debug/net10.0/QUESTION-1.csproj.CoreCompileInputs.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/obj/Debug/net10.0/QUESTION-1.sourcelink.json
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/obj/Debug/net10.0/QUESTION-1.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/obj/Debug/net10.0/refint/QUESTION-1.dll
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/obj/Debug/net10.0/QUESTION-1.pdb
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/obj/Debug/net10.0/QUESTION-1.genruntimeconfig.cache
+/Users/shivchauhan/Work/University/Semester-8/CAPGEMINI-TRAINING/CLASSROOM-PRACTICE/QUESTION-1/obj/Debug/net10.0/ref/QUESTION-1.dll
