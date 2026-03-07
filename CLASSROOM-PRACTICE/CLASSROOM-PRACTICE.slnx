@@ -18,10 +18,13 @@
   <Project Path="GROCERY-RECEIPT/GROCERY-RECEIPT.csproj" />
   <Project Path="MovieLibraryApp/MovieLibraryApp.csproj" />
   <Project Path="PasswordSanitizer/PasswordSanitizer.csproj" />
+  <Project Path="ProductQuerySystem/ProductQuerySystem.csproj" />
   <Project Path="QUESTION-1\QUESTION-1.csproj" />
   <Project Path="QUESTION-2/QUESTION-2.csproj" />
   <Project Path="QUESTION-3/QUESTION-3.csproj" />
   <Project Path="QUESTION-4/QUESTION-4.csproj" />
   <Project Path="QUESTION-5/QUESTION-5.csproj" />
+  <Project Path="test-App/test-App.csproj" />
+  <Project Path="test-Project/test-Project.csproj" />
   <Project Path="ZOO-MANAGEMENT/ZOO-MANAGEMENT.csproj" />
 </Solution>
