@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+        function add() {
+            var total;
+            var first = parseFloat(document.getElementById("text1").value);
+            var second = parseFloat(document.getElementById("text2").value);
+            total = first + second;
+            alert(`Total : ${total.toFixed(2)}`);
+        }
+    </script>
+    <pre>
+        1st Number : <input type="text" id="text1" name="first" placeholder="Enter first number">
+        2nd Number : <input type="text" id="text2" name="second" placeholder="Enter second number">
+
+        <input type="button" value="sum" onclick="add()"/>
+    </pre>
+</body>
+
+</html>

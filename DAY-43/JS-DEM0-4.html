@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Loop Example</title>
+
+<script>
+function doLoop() {
+
+    let text = document.getElementById("sayThis").value;
+    let times = document.getElementById("howMany").value;
+
+    let output = "";
+
+    for(let i = 0; i < times; i++) {
+        output += text + "<br>";
+    }
+
+    document.getElementById("results").innerHTML = output;
+}
+</script>
+
+</head>
+
+<body>
+
+<p>Say what?
+<input id="sayThis" size="40">
+</p>
+
+<p>How many times?
+<select id="howMany">
+<option value="1">1</option>
+<option value="5" selected>5</option>
+<option value="10">10</option>
+<option value="20">20</option>
+</select>
+</p>
+
+<button onclick="doLoop()">Do It!</button>
+
+<div id="results" style="background:yellow; color:red; height:400px; width:80%;"></div>
+
+</body>
+</html>

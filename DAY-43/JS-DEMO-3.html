@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS-DEMO-3</title>
+</head>
+<body>
+    <div
+        id="feedback" 
+        onclick="goodbye()" 
+        style="background-color: peachpuff; color: black; width: max-content; height: max-content; font-size: 3rem;"
+    >
+        Click me to see something change
+    </div>
+    <script language="javascript">
+        function goodbye(){
+            document.getElementById('feedback').innerHTML = "GOODBYE....";
+        }
+    </script>
+</body>
+</html>
