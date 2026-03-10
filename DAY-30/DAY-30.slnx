@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="MSTEST-INTRODUCTION/MSTEST-INTRODUCTION.csproj" />
-  <Project Path="NUNIT-INTRODUCTION/NUNIT-INTRODUCTION.csproj" />
-  <Project Path="TESTING-CLASSES/TESTING-CLASSES.csproj" />
-  <Project Path="XUNIT-INTRODUCTION/XUNIT-INTRODUCTION.csproj" />
-</Solution>

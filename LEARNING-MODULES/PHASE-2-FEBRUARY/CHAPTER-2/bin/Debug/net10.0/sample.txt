@@ -1,3 +1,0 @@
-Hello C#
-This is a file handling demo.
-Appended line added.
