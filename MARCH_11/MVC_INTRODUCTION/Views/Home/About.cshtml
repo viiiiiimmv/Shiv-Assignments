@@ -1,0 +1,21 @@
+@model dynamic
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="html">
+<head>
+    <title>About Page</title>
+</head>
+<body>
+<div>
+    <p>Code Name : @ViewBag.Name</p>
+    <p>Age : @ViewBag.Age</p>
+    <p>Message : @ViewData["Message"]</p>
+    <p>Year : @ViewData["Year"]</p>
+</div>
+</body>
+</html>

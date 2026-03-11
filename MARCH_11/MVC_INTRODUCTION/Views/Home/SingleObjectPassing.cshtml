@@ -1,0 +1,41 @@
+@model Employee
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>EMPLOYEE DETAILS</h2>
+<style>
+	table {
+		border-collapse: collapse;
+		width: 50%;
+	}
+
+	table, th, td {
+		border: 2px solid black;
+	}
+
+	th, td {
+		padding: 8px;
+		text-align: left;
+	}
+</style>
+
+<table>
+    <thead>
+    <tr>
+        <th>EmployeeID</th>
+        <th>EmpName</th>
+        <th>Salary</th>
+        @* <th>Profile Image</th> *@
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>@Model.EmployeeId</td>
+        <td>@Model.Name</td>
+        <td>@Model.Salary</td>
+        @* <td><img src="@Model.ImageUrl" alt="user-image"></td> *@
+    </tr>
+    </tbody>
+</table>
