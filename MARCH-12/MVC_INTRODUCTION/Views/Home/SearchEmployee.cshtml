@@ -1,0 +1,20 @@
+@model MVC_INTRODUCTION.Models.Employee?
+
+@{
+    ViewBag.Title = "Searching Employees";
+}
+
+<h2>Search Employees</h2>
+
+<table border="1" cellpadding="2" cellspacing="3">
+    <tr>
+        <th>EmployeeID</th>
+        <th>Employee Name</th>
+        <th>Employee Salary</th>
+    </tr>
+    <tr>
+        <td>@Model?.EmployeeId</td>
+        <td>@Model?.Name</td>
+        <td>@Model?.Salary</td>
+    </tr>
+</table>

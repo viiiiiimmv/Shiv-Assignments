@@ -1,0 +1,17 @@
+@model Employee
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h1>@Model.Name's Details</h1>
+<div>
+    <img src="@Model.ImageUrl" alt="@Model.Name" width="300px" height="300px"/>
+</div>
+<div>
+    <h2>Employee Details</h2>
+    <p>ID : @Model.EmployeeId</p>
+    <p>Name : @Model.Name</p>
+    <p>Salary : @Model.Salary</p>
+</div>
+<h2><a asp-action="MultipleObjectPassing">Back to List</a></h2>

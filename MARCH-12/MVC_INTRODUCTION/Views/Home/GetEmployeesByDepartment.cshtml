@@ -1,0 +1,21 @@
+@model System.Collections.Generic.List<MVC_INTRODUCTION.Models.Employee>
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>Employees</h2>
+
+<table>
+    <tr>
+        <th>EMPLOYEE ID</th>
+        <th>EMPLOYEE NAME</th>
+    </tr>
+    @foreach (var emp in Model)
+    {
+        <tr>
+            <td>@emp.EmployeeId</td>
+            <td>@emp.Name</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,53 @@
+@model System.Collections.Generic.List<MVC_INTRODUCTION.Models.Department>
+
+@{
+    ViewBag.Title = "Departments";
+}
+
+<h2>List of Departments</h2>
+<style>
+    table {
+        border-collapse: collapse;
+        width: 60%;
+        margin-top: 20px;
+    }
+
+    table, th, td {
+        border: 1px solid black;
+    }
+
+    th {
+        background-color: #f2f2f2;
+        text-align: center;
+        padding: 8px;
+    }
+
+    td {
+        padding: 8px;
+        text-align: center;
+    }
+    
+    td a {
+        background-color: lavenderblush;
+        color: black;
+        padding: 6px 10px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-weight: 500;
+    }
+</style>
+<table>
+    <tr>
+        <th>Department ID</th>
+        <th>Department Name</th>
+        <th>Employees List</th>
+    </tr>
+    @foreach (var dept in Model)
+    {
+        <tr>
+            <td>@dept.DeptId</td>
+            <td>@dept.Name</td>
+            <td><a href="/Home/GetEmployeesByDepartment?deptId=@dept.DeptId">Click Here</a></td>
+        </tr>
+    }
+</table>

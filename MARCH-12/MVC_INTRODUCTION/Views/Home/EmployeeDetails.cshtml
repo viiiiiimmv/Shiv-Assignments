@@ -1,0 +1,34 @@
+@model EmployeesAndDepartments
+
+@{
+    ViewBag.Title = "EMPLOYEES AND DEPARTMENTS";
+}
+
+<h2>EMPLOYEE DETAILS</h2>
+
+<table border="1" cellpadding="2" cellspacing="3">
+    <tr>
+        <th>Employee ID</th>
+        <th>Profile Image</th>
+        <th>Employee Name</th>
+        <th>Salary</th>
+        <th>Department</th>
+    </tr>
+
+    @foreach (var emp in Model._employees)
+    {
+        var deptName = Model._departments
+            .FirstOrDefault(p => p.DeptId == emp.DeptId)?.Name;
+
+        <tr>
+            <td>@emp.EmployeeId</td>
+            <td>
+                <img src="@emp.ImageUrl" alt="profile-image" height="100px" width="100px" />
+            </td>
+            <td>@emp.Name</td>
+            <td>@emp.Salary</td>
+            <td>@deptName</td>
+        </tr>
+    }
+
+</table>

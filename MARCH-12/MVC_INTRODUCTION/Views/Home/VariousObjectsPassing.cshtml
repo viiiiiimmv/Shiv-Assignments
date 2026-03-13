@@ -1,0 +1,28 @@
+@model EmpDeptModel
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h1>Employee & Departments</h1>
+<hr/>
+<h4>Date : @Model._date</h4>
+<h4>Department Details</h4>
+<table>
+    <tr>
+        <th>Department ID</th>
+        <th>Department Name</th>
+    </tr>
+    @foreach (var dept in Model._departments)
+    {
+        <tr>
+            <td>@dept.DeptId</td>
+            <td>@dept.Name</td>
+        </tr>
+    }
+</table>
+<br/>
+<h5>Employee Details</h5>
+<p>ID : @Model._employee?.EmployeeId</p>
+<p>Name : @Model._employee?.Name</p>
+<p>Salary : @Model._employee?.Salary</p>

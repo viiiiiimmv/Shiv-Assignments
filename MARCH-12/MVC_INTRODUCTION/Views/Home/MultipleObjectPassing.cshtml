@@ -1,0 +1,50 @@
+@model System.Collections.Generic.List<MVC_INTRODUCTION.Models.Employee>
+
+@{
+    ViewBag.Title = "Mutliple Object Passing";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<style>
+	table {
+		border-collapse: collapse;
+		width: 50%;
+	}
+
+	table, th, td {
+		border: 2px solid black;
+	}
+
+	th, td {
+		padding: 8px;
+		text-align: left;
+	}
+</style>
+
+<table>
+    <thead>
+    <tr>
+        <th>EmployeeID</th>
+        <th>EmpName</th>
+        <th>Salary</th>
+        <th>Profile Image</th>
+        <th>Profile Link</th>
+    </tr>
+    </thead>
+    <tbody>
+		@foreach (var emp in Model)
+		{
+			<tr>
+				<td>@emp.EmployeeId</td>
+				<td>@emp.Name</td>
+				<td>@emp.Salary</td>
+				<td><img style="height: 100px; width: 100px; align-content: center" src="@emp.ImageUrl" alt="user-profile-image"></td>
+				<td>
+					<a href="/Home/Details/@emp.EmployeeId">Click Here</a> |
+					<a asp-controller="Home" asp-action="Details" asp-route-id="@emp.EmployeeId">Details</a>
+				</td>
+			</tr>
+		}
+    </tbody>
+</table>
