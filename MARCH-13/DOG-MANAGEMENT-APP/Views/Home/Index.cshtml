@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="p-5 mb-4 bg-body-tertiary rounded-3 shadow-sm">
+    <div class="container-fluid py-3">
+        <h1 class="display-5 fw-bold">Dog Management App</h1>
+        <p class="col-md-8 fs-5">
+            Manage dog records with ASP.NET Core MVC, scaffolded CRUD pages, and a SQLite database stored locally in this project.
+        </p>
+        <div class="d-flex gap-2">
+            <a class="btn btn-primary btn-lg" asp-controller="Dog" asp-action="Index">View Dogs</a>
+            <a class="btn btn-outline-secondary btn-lg" asp-controller="Dog" asp-action="Create">Add a Dog</a>
+        </div>
+    </div>
+</div>

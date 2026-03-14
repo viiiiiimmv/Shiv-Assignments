@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CRUD_OPERATIONS/CRUD_OPERATIONS.csproj" />
+  <Project Path="DOG-MANAGEMENT-APP/DOG-MANAGEMENT-APP.csproj" />
+</Solution>
