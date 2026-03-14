@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Dog_App.Models.Dog>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table table-hover table-bordered text-center">
+    <thead class="table-primary">
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                NAME
+            </th>
+            <th>
+                AGE
+            </th>
+            <th>
+                DESCRIPTION
+            </th>
+            <th>
+                IMAGE
+            </th>
+            <th>
+                ACTIONS
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.ID
+            </td>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.Age
+            </td>
+            <td>
+                @item.Description
+            </td>
+            <td>
+                <img src="@item.ImagePath" alt="Dog Image" width="120" height="120" />
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID" class="btn btn-primary btn-sm">Edit</a>
+                <a asp-action="Details" asp-route-id="@item.ID" class="btn btn-info btn-sm">Details</a>
+                <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-danger btn-sm">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
