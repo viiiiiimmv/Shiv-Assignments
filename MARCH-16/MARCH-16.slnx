@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CodeFirst\CodeFirst.csproj" />
+  <Project Path="DBFirst/DBFirst.csproj" />
+  <Project Path="Student_Course_Management_System/Student_Course_Management_System.csproj" />
+</Solution>

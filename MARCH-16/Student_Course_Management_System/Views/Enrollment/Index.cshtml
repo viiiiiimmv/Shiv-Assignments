@@ -1,0 +1,42 @@
+@model dynamic
+
+@{
+    ViewData["Title"] = "All Students and Courses";
+}
+
+<div class="d-flex align-items-center justify-content-between mb-3">
+    <div>
+        <h2 class="mb-1">Students and Courses</h2>
+        <div class="text-muted small">All enrollment records in one place.</div>
+    </div>
+</div>
+
+<div class="card shadow-sm">
+    <div class="card-body p-0">
+        <div class="table-responsive">
+            <table class="table table-striped table-hover align-middle mb-0">
+                <thead class="table-light">
+                <tr>
+                    <th>Student Name</th>
+                    <th>Course</th>
+                    <th>Credits</th>
+                    <th>Grade</th>
+                    <th>Attempt Number</th>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach (var rec in Model)
+                {
+                    <tr>
+                        <td>@rec.StudentName</td>
+                        <td>@rec.CourseTitle</td>
+                        <td>@rec.Credits</td>
+                        <td>@rec.Grade</td>
+                        <td>@rec.AttemptNumber</td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

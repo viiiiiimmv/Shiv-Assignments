@@ -1,0 +1,60 @@
+@model IEnumerable<dynamic>
+
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<div class="d-flex align-items-center justify-content-between mb-3">
+    <h2 class="mb-0">Student Details</h2>
+    <a class="btn btn-outline-secondary btn-sm" asp-controller="Enrollment" asp-action="Index">Back to Enrollments</a>
+</div>
+
+<div class="card shadow-sm mb-3">
+    <div class="card-body">
+        <div class="row g-3">
+            <div class="col-md-6">
+                <div class="text-muted small">Name</div>
+                <div class="fw-semibold">@ViewBag.StudentName</div>
+            </div>
+            <div class="col-md-6">
+                <div class="text-muted small">Branch</div>
+                <div class="fw-semibold">@ViewBag.StudentBranch</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@if (!(ViewBag.HasEnrollments ?? false))
+{
+    <div class="alert alert-secondary">No courses found for this student.</div>
+}
+else
+{
+    <div class="card shadow-sm">
+        <div class="card-body p-0">
+            <div class="table-responsive">
+                <table class="table table-striped table-hover align-middle mb-0">
+                    <thead class="table-light">
+                    <tr>
+                        <th>Course</th>
+                        <th>Credits</th>
+                        <th>Grade</th>
+                        <th>Attempt Number</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    @foreach (var rec in Model)
+                    {
+                        <tr>
+                            <td>@rec.CourseTitle</td>
+                            <td>@rec.Credits</td>
+                            <td>@rec.Grade</td>
+                            <td>@rec.AttemptNumber</td>
+                        </tr>
+                    }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+}

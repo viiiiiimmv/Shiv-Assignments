@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DOG-MANAGEMENT-APP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6f4ed7af9b4e3723a6bb55c9ba1c0d1cddea054")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c4be2021aff03fa6d37db9eb659c047f89da0ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("DOG-MANAGEMENT-APP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DOG-MANAGEMENT-APP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,28 @@
+@model dynamic
+
+@{
+    ViewData["Title"] = "Spain Customers";
+}
+
+<h2>Customers from Spain</h2>
+<hr />
+
+<table border="1" cellpadding="10">
+    <thead>
+    <tr>
+        <th>Customer ID</th>
+        <th>Contact Name</th>
+        <th>Company Name</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var c in Model)
+    {
+        <tr>
+            <td>@c.cid</td>
+            <td>@c.cname</td>
+            <td>@c.comname</td>
+        </tr>
+    }
+    </tbody>
+</table>

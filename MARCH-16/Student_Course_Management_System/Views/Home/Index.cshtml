@@ -1,0 +1,34 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="py-4">
+    <div class="p-4 p-md-5 bg-light border rounded-3 shadow-sm">
+        <h1 class="display-6 fw-semibold mb-2">Student Course Management</h1>
+        <p class="text-muted lead mb-4">
+            A simple portal to view students, courses, and enrollments at a glance.
+        </p>
+        <a class="btn btn-primary" asp-controller="Enrollment" asp-action="Index">View Enrollments</a>
+    </div>
+
+    <div class="row g-3 mt-3">
+        <div class="col-md-4">
+            <div class="border rounded-3 p-3 h-100">
+                <div class="fw-semibold">Students</div>
+                <div class="text-muted small">Browse student profiles and branches.</div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="border rounded-3 p-3 h-100">
+                <div class="fw-semibold">Courses</div>
+                <div class="text-muted small">Track titles, credits, and departments.</div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="border rounded-3 p-3 h-100">
+                <div class="fw-semibold">Enrollments</div>
+                <div class="text-muted small">See grades and attempts per student.</div>
+            </div>
+        </div>
+    </div>
+</div>
