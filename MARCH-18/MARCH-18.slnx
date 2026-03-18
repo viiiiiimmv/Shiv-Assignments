@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DBFirst/DBFirst.csproj" />
+  <Project Path="LayoutAndSection/LayoutAndSection.csproj" />
+  <Project Path="WEB-APPLICATION/WEB-APPLICATION.csproj" />
+</Solution>

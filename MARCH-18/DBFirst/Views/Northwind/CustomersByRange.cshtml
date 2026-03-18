@@ -1,0 +1,81 @@
+@model System.Collections.Generic.List<DBFirst.Models.Customer>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Customers by Range</title>
+</head>
+
+<body class="bg-light">
+
+<div class="container mt-5">
+
+    <h2 class="text-center mb-4">Customers by Order Range</h2>
+
+    <div class="card p-4 shadow-sm mb-4">
+        <form method="get" asp-controller="Northwind" asp-action="CustomersByRange">
+            <div class="row g-2">
+                <div class="col-md-10">
+                    <input 
+                        type="text" 
+                        name="range" 
+                        class="form-control" 
+                        placeholder="Enter minimum number of orders..."
+                        value="@Context.Request.Query["range"]" />
+                </div>
+                <div class="col-md-2 d-grid">
+                    <button type="submit" class="btn btn-primary">
+                        Search
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div class="card shadow-sm">
+        <div class="card-body">
+
+            <table class="table table-striped table-hover text-center align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Customer ID</th>
+                        <th>Contact Name</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null && Model.Any())
+                    {
+                        foreach (var customer in Model)
+                        {
+                            <tr>
+                                <td>@customer.CustomerId</td>
+                                <td>@customer.ContactName</td>
+                                <td>
+                                    <a asp-controller="Northwind" 
+                                       asp-action="CustomerOrderDetails" 
+                                       asp-route-searchString="@customer.CustomerId"
+                                       class="btn btn-sm btn-outline-primary">
+                                        View Orders
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="2" class="text-muted">
+                                No customers found
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>

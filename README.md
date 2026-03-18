@@ -1,4 +1,4 @@
 
-# Capgemini Training — Daily Tasks
+# Capgemini Training
 
-A personal repository to track and document daily tasks, exercises, and learnings completed during Capgemini training.
+This repository contains the work, practice tasks, exercises, notes, and related material completed by Shiv Chauhan during Capgemini training.
