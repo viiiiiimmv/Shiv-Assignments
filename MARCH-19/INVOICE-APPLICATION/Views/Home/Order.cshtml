@@ -1,0 +1,103 @@
+@model INVOICE_APPLICATION.Models.OrderViewModel
+
+@{
+    ViewData["Title"] = "Create Order";
+}
+
+<div class="row justify-content-center">
+    <div class="col-xl-10">
+        <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-3 mb-4">
+            <div>
+                <h1 class="h2 mb-1">Create Order</h1>
+                <p class="text-muted mb-0">Select a customer, add product quantities, and generate an invoice.</p>
+            </div>
+            <div class="d-flex gap-2">
+                <a asp-action="Users" class="btn btn-outline-secondary">Customers</a>
+                <a asp-action="CreateUser" class="btn btn-primary">Add Customer</a>
+            </div>
+        </div>
+
+        @if (!string.IsNullOrWhiteSpace(Model.ErrorMessage))
+        {
+            <div class="alert alert-danger">@Model.ErrorMessage</div>
+        }
+
+        @if (!Model.Customers.Any())
+        {
+            <div class="alert alert-warning">
+                Create a customer before placing an order.
+                <a asp-action="CreateUser" class="alert-link">Add customer</a>
+            </div>
+        }
+        else if (!Model.Products.Any())
+        {
+            <div class="alert alert-warning">No products are available for billing right now.</div>
+        }
+        else
+        {
+            <div class="card shadow-sm border-0">
+                <div class="card-body p-4">
+                    <form asp-action="PlaceOrder" method="post">
+                        <div class="row g-3 align-items-end mb-4">
+                            <div class="col-md-6 col-lg-5">
+                                <label for="customerId" class="form-label fw-semibold">Select Customer</label>
+                                <select id="customerId" name="customerId" class="form-select">
+                                    <option value="">Select Customer</option>
+                                    @foreach (var c in Model.Customers)
+                                    {
+                                        if (Model.CustomerId == c.Id)
+                                        {
+                                            <option value="@c.Id" selected>@c.Name</option>
+                                        }
+                                        else
+                                        {
+                                            <option value="@c.Id">@c.Name</option>
+                                        }
+                                    }
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="table-responsive">
+                            <table class="table table-hover align-middle mb-0">
+                                <thead class="table-light">
+                                    <tr>
+                                        <th>Product</th>
+                                        <th>Description</th>
+                                        <th>Price</th>
+                                        <th class="text-center">Quantity</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var p in Model.Products)
+                                    {
+                                        var quantity = Model.Quantities.TryGetValue(p.Id, out var selectedQuantity) ? selectedQuantity : 0;
+
+                                        <tr>
+                                            <td class="fw-semibold">@p.Name</td>
+                                            <td class="text-muted">@p.Description</td>
+                                            <td>₹@p.Price.ToString("N2")</td>
+                                            <td class="text-center" style="max-width: 110px;">
+                                                <input type="number"
+                                                       name="quantities[@p.Id]"
+                                                       value="@quantity"
+                                                       min="0"
+                                                       class="form-control text-center" />
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="d-flex justify-content-end mt-4">
+                            <button type="submit" class="btn btn-primary px-4">
+                                Generate Invoice
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        }
+    </div>
+</div>

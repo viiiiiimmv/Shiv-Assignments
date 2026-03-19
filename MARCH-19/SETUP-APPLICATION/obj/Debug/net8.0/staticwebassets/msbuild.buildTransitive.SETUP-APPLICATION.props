@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/SETUP-APPLICATION.props" />
+</Project>

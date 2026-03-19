@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="row justify-content-center">
+    <div class="col-lg-10">
+        <div class="card shadow-sm border-0">
+            <div class="card-body p-4 p-md-5">
+                <div class="row align-items-center g-4">
+                    <div class="col-md-8">
+                        <span class="badge bg-primary-subtle text-primary-emphasis mb-3">Billing Dashboard</span>
+                        <h1 class="display-6 fw-semibold mb-3">Manage customers, orders, and invoices in one place.</h1>
+                        <p class="lead text-muted mb-4">
+                            Use the customer list to manage clients, then create orders and generate invoices with the latest product pricing.
+                        </p>
+                        <div class="d-flex flex-wrap gap-2">
+                            <a asp-action="Users" class="btn btn-primary">View Customers</a>
+                            <a asp-action="Order" class="btn btn-outline-primary">Create Order</a>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card bg-light border-0">
+                            <div class="card-body">
+                                <h2 class="h5 mb-3">Quick Actions</h2>
+                                <div class="d-grid gap-2">
+                                    <a asp-action="CreateUser" class="btn btn-outline-secondary">Add Customer</a>
+                                    <a asp-action="Order" class="btn btn-outline-secondary">Generate Invoice</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

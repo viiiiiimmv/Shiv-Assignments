@@ -1,0 +1,59 @@
+@model INVOICE_APPLICATION.Models.CustomerInvoicesViewModel
+
+@{
+    ViewData["Title"] = "Customer Invoices";
+}
+
+<div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-3 mb-4">
+    <div>
+        <h1 class="h2 mb-1">Invoices for @Model.Customer.Name</h1>
+        <p class="text-muted mb-0">Review all generated invoices for this customer.</p>
+    </div>
+    <div class="d-flex gap-2">
+        <a asp-action="Users" class="btn btn-outline-secondary">Back to Customers</a>
+        <a asp-action="Order" asp-route-customerId="@Model.Customer.Id" class="btn btn-primary">Create Order</a>
+    </div>
+</div>
+
+@if (!Model.Invoices.Any())
+{
+    <div class="alert alert-info">
+        No invoices have been created for this customer yet.
+    </div>
+}
+else
+{
+    <div class="card shadow-sm border-0">
+        <div class="card-body p-0">
+            <div class="table-responsive">
+                <table class="table table-hover align-middle mb-0">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Invoice #</th>
+                            <th>Created On</th>
+                            <th>Total</th>
+                            <th class="text-end">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    @foreach (var invoice in Model.Invoices)
+                    {
+                        <tr>
+                            <td class="fw-semibold">#@invoice.Id</td>
+                            <td>@invoice.CreatedOn.ToString("dd MMM yyyy hh:mm tt")</td>
+                            <td>₹@invoice.TotalAmount.ToString("N2")</td>
+                            <td class="text-end">
+                                <a asp-action="Invoice"
+                                   asp-route-id="@invoice.Id"
+                                   class="btn btn-sm btn-outline-primary">
+                                    View Invoice
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+}
