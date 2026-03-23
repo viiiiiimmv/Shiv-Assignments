@@ -1,0 +1,17 @@
+@{
+    Layout = null;
+    ViewData["Title"] = "Index2";
+    int n = 10;
+}
+
+<h1>Index 2</h1>
+
+<div>
+    @{
+        for (var i = 0; i <=n; i++)
+        {
+            <partial name="_Card" model="@i"/>
+            <partial name="_Card2" model="@i"/>
+        }
+    }
+</div>

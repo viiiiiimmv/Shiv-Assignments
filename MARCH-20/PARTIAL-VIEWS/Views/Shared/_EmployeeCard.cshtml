@@ -1,0 +1,19 @@
+@model MARCH_20.Models.Employee
+
+<div class="card shadow-sm m-2" style="max-width: 320px;">
+    <div class="card-body d-flex align-items-center gap-3">
+        <div>
+            <span class="badge bg-primary-subtle text-primary mb-1">
+                EMP-@Model.EmpId.ToString("D3")
+            </span>
+            <h6 class="mb-0 fw-semibold">@Model.EmpName</h6>
+            <small class="text-muted">@Model.Description</small>
+            <div class="mt-1">
+                <a href="mailto:@Model.Email" class="text-decoration-none small">
+                    @Model.Email
+                </a>
+            </div>
+        </div>
+
+    </div>
+</div>

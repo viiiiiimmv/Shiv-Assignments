@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="card soft-card border-0">
+    <div class="card-body p-4 p-md-5 text-center">
+        <span class="badge rounded-pill text-bg-light border mb-3 px-3 py-2">ASP.NET Core MVC</span>
+        <h1 class="display-6 fw-semibold mb-3">Welcome to CodeFirst</h1>
+        <p class="page-subtitle fs-5 mb-4">A clean and simple employee management app with a subtle Bootstrap light theme.</p>
+        <div class="d-flex justify-content-center flex-wrap gap-2">
+            <a class="btn btn-primary px-4" asp-controller="Employee" asp-action="Index">View Employees</a>
+            <a class="btn btn-outline-secondary px-4" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </div>
+</div>

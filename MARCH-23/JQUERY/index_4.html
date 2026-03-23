@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script lang="Javascript" type="text/javascript">
+    $(document).ready(function () {
+
+        $("div").mouseenter(function () {
+            $("#myimg").attr("src", "./images/smile_hover.jpeg");
+        });
+
+        $("div").mouseleave(function () {
+            $("#myimg").attr("src", "./images/smile_normal.jpeg");
+        });
+    });
+</script>
+<body>
+    <div> 
+        <img src="./images/smile_hover.jpeg" id="myimg" width="300px" height="300px">
+    </div> 
+</body>
+</html>

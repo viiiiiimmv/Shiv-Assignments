@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CodeFirst/CodeFirst.csproj" />
+  <Project Path="PARTIAL-VIEWS\PARTIAL-VIEWS.csproj" />
+  <Project Path="ROUTING/ROUTING.csproj" />
+</Solution>
