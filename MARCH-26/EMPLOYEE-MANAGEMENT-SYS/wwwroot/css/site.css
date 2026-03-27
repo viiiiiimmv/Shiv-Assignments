@@ -1,0 +1,326 @@
+:root {
+  --bg-start: #7ec8f2;
+  --bg-mid: #7f8edb;
+  --bg-end: #d85d96;
+  --surface: rgba(255, 255, 255, 0.2);
+  --surface-strong: rgba(255, 255, 255, 0.9);
+  --surface-soft: rgba(255, 255, 255, 0.12);
+  --border: rgba(255, 255, 255, 0.28);
+  --text: #182339;
+  --muted: #55617e;
+  --shadow: 0 24px 60px rgba(33, 42, 88, 0.2);
+}
+
+html {
+  font-size: 16px;
+  min-height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  color: var(--text);
+  font-family: "Segoe UI", "Trebuchet MS", sans-serif;
+  background:
+    radial-gradient(circle at top left, rgba(255, 255, 255, 0.42), transparent 24%),
+    linear-gradient(120deg, var(--bg-start), var(--bg-mid) 54%, var(--bg-end));
+}
+
+a {
+  text-decoration: none;
+}
+
+.page-shell {
+  min-height: 100vh;
+}
+
+.app-navbar,
+.hero-card,
+.directory-card {
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+.app-navbar {
+  padding: 0.95rem 1.2rem;
+  border-radius: 1.35rem;
+  background: rgba(255, 255, 255, 0.16);
+  backdrop-filter: blur(14px);
+}
+
+.app-brand {
+  color: #fff;
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.app-navbar .nav-link {
+  color: rgba(255, 255, 255, 0.86);
+  font-weight: 600;
+}
+
+.app-navbar .nav-link:hover,
+.app-navbar .nav-link:focus {
+  color: #fff;
+}
+
+.hero-card {
+  padding: 2rem;
+  border-radius: 1.75rem;
+  background: rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(14px);
+}
+
+.section-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.76);
+  color: #9d2f6d;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.section-tag-light {
+  background: rgba(255, 255, 255, 0.18);
+  color: #fff;
+}
+
+.hero-copy,
+.board-copy {
+  max-width: 56ch;
+  color: rgba(24, 35, 57, 0.82);
+  font-size: 1rem;
+}
+
+.metric-card {
+  height: 100%;
+  padding: 1.1rem 1.15rem;
+  border-radius: 1.25rem;
+  background: rgba(255, 255, 255, 0.82);
+}
+
+.metric-label {
+  display: block;
+  margin-bottom: 0.4rem;
+  color: var(--muted);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.metric-value {
+  font-size: 1.6rem;
+}
+
+.directory-alert {
+  border: none;
+  border-radius: 1rem;
+  box-shadow: 0 16px 40px rgba(27, 34, 69, 0.12);
+}
+
+.validation-summary-valid,
+.field-validation-valid {
+  display: none;
+}
+
+.directory-card {
+  border-radius: 1.75rem;
+  overflow: hidden;
+}
+
+.form-card {
+  background: var(--surface-strong);
+}
+
+.directory-form .form-control {
+  min-height: 3.1rem;
+  border-radius: 1rem;
+  border-color: rgba(101, 116, 164, 0.18);
+  box-shadow: none;
+}
+
+.directory-form .form-control:focus {
+  border-color: rgba(133, 96, 214, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(133, 96, 214, 0.14);
+}
+
+.preview-card {
+  padding: 1rem;
+  border-radius: 1.25rem;
+  background: linear-gradient(180deg, rgba(129, 175, 238, 0.16), rgba(216, 93, 150, 0.12));
+  border: 1px solid rgba(126, 144, 198, 0.2);
+}
+
+.preview-label,
+.preview-file-name {
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.preview-file-name {
+  color: var(--muted);
+}
+
+.preview-image,
+.employee-thumb {
+  width: 58px;
+  height: 58px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.preview-image {
+  width: 100%;
+  height: 220px;
+  border-radius: 1rem;
+  object-fit: cover;
+}
+
+.preview-image.is-hidden {
+  display: none;
+}
+
+.preview-placeholder {
+  display: grid;
+  place-items: center;
+  min-height: 220px;
+  padding: 1.5rem;
+  border: 1px dashed rgba(102, 124, 184, 0.35);
+  border-radius: 1rem;
+  color: var(--muted);
+  text-align: center;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.is-hidden {
+  display: none !important;
+}
+
+.board-card {
+  background: rgba(242, 246, 255, 0.26);
+}
+
+.board-header {
+  padding: 1.5rem;
+  background: linear-gradient(135deg, #ca4f8e, #8b6dd7);
+}
+
+.stats-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 0.95rem;
+  border-radius: 999px;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.16);
+  font-weight: 600;
+}
+
+.table-panel {
+  padding: 1rem;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.36), rgba(247, 235, 255, 0.24));
+}
+
+.table-directory {
+  overflow: hidden;
+  border-radius: 1.15rem;
+}
+
+.table-directory thead th {
+  border-bottom: none;
+  background: #21242b;
+  color: #fff;
+  font-size: 0.84rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.table-directory > :not(caption) > * > * {
+  padding: 1rem 0.95rem;
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.table-directory tbody tr {
+  background: rgba(124, 132, 214, 0.58);
+  color: #162032;
+}
+
+.table-directory tbody tr:nth-child(even) {
+  background: rgba(131, 139, 223, 0.72);
+}
+
+.employee-thumb {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.88);
+  color: #7e5ad2;
+  font-weight: 700;
+  box-shadow: inset 0 0 0 1px rgba(126, 90, 210, 0.1);
+}
+
+.employee-thumb-fallback {
+  font-size: 1rem;
+}
+
+.directory-link {
+  color: #233966;
+  font-weight: 500;
+}
+
+.directory-link:hover,
+.directory-link:focus {
+  color: #172544;
+}
+
+.empty-state {
+  padding: 3.5rem 1.5rem;
+  text-align: center;
+  border-radius: 1.15rem;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.board-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.25rem 1.25rem;
+  background: rgba(255, 255, 255, 0.58);
+}
+
+.app-footer {
+  padding: 1rem 1.25rem;
+  border-radius: 1rem;
+  background: rgba(255, 255, 255, 0.14);
+  color: rgba(255, 255, 255, 0.88);
+  text-align: center;
+}
+
+@media (max-width: 991.98px) {
+  .hero-card,
+  .app-navbar {
+    border-radius: 1.4rem;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .hero-card,
+  .table-panel,
+  .board-header,
+  .board-footer,
+  .app-navbar {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .board-footer {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

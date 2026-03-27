@@ -1,0 +1,227 @@
+@page
+@model WEBAPI_DEMO.Pages.IndexModel
+@{
+    ViewData["Title"] = "Dashboard";
+    var statusTone = string.IsNullOrWhiteSpace(Model.StatusTone) ? "success" : Model.StatusTone;
+    var pageCount = Model.TotalPages == 0 ? 1 : Model.TotalPages;
+}
+
+<section class="container pb-4 pb-lg-5">
+    @if (!string.IsNullOrWhiteSpace(Model.StatusMessage))
+    {
+        <div class="alert alert-@statusTone directory-alert" role="alert">
+            @Model.StatusMessage
+        </div>
+    }
+
+    <div class="hero-card mb-4 mb-lg-5">
+        <div class="row g-4 align-items-center">
+            <div class="col-lg-7">
+                <span class="section-tag">Simple Bootstrap UI</span>
+                <h1 class="display-6 fw-semibold mt-3 mb-3">Manage employees from one clean screen.</h1>
+                <p class="hero-copy mb-0">
+                    Add, edit, and review employee records without switching pages. The layout keeps the process simple
+                    while matching the soft blue and pink style from your reference.
+                </p>
+            </div>
+            <div class="col-lg-5">
+                <div class="row g-3">
+                    <div class="col-sm-6">
+                        <div class="metric-card">
+                            <span class="metric-label">Total Employees</span>
+                            <strong class="metric-value">@Model.TotalEmployees</strong>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="metric-card">
+                            <span class="metric-label">Page Status</span>
+                            <strong class="metric-value">@Model.PageNumber / @pageCount</strong>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row g-4 align-items-start">
+        <div class="col-lg-4">
+            <div class="card directory-card form-card border-0 shadow-lg">
+                <div class="card-body p-4 p-xl-4">
+                    <span class="section-tag">Quick Form</span>
+                    <h2 class="h4 mt-3 mb-2">@(Model.IsEditing ? "Update employee" : "Add employee")</h2>
+                    <p class="text-secondary small mb-4">
+                        @(Model.IsEditing
+                            ? "Update the selected employee here. Leave the photo empty if you want to keep the current one."
+                            : "Create a new employee record with only the essential fields.")
+                    </p>
+
+                    <form method="post" enctype="multipart/form-data" asp-page-handler="Save" class="directory-form">
+                        <input type="hidden" asp-for="Input.Id" />
+                        <input type="hidden" name="pageNumber" value="@Model.PageNumber" />
+
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger small py-2 px-3 mb-3" role="alert"></div>
+
+                        <div class="row g-3">
+                            <div class="col-md-6 col-lg-12">
+                                <label asp-for="Input.FirstName" class="form-label"></label>
+                                <input asp-for="Input.FirstName" class="form-control form-control-lg" />
+                                <span asp-validation-for="Input.FirstName" class="text-danger"></span>
+                            </div>
+
+                            <div class="col-md-6 col-lg-12">
+                                <label asp-for="Input.LastName" class="form-label"></label>
+                                <input asp-for="Input.LastName" class="form-control form-control-lg" />
+                                <span asp-validation-for="Input.LastName" class="text-danger"></span>
+                            </div>
+
+                            <div class="col-12">
+                                <label asp-for="Input.Email" class="form-label"></label>
+                                <input asp-for="Input.Email" class="form-control form-control-lg" />
+                                <span asp-validation-for="Input.Email" class="text-danger"></span>
+                            </div>
+
+                            <div class="col-12">
+                                <label asp-for="Input.Age" class="form-label"></label>
+                                <input asp-for="Input.Age" class="form-control form-control-lg" />
+                                <span asp-validation-for="Input.Age" class="text-danger"></span>
+                            </div>
+
+                            <div class="col-12">
+                                <label asp-for="Input.Image" class="form-label"></label>
+                                <input asp-for="Input.Image" id="employee-image-input" class="form-control" accept=".jpg,.jpeg,.png,.gif,.webp" />
+                                <div class="form-text">Accepted: JPG, PNG, GIF, WEBP. Max size: 5 MB.</div>
+                                <span asp-validation-for="Input.Image" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="preview-card mt-4">
+                            <div class="d-flex justify-content-between align-items-center mb-3">
+                                <span class="preview-label">Photo preview</span>
+                                <span id="upload-file-name" class="preview-file-name">@(Model.HasCurrentImage ? "Current photo" : "No file chosen")</span>
+                            </div>
+
+                            <img id="upload-preview-image"
+                                 class="preview-image @(Model.HasCurrentImage ? string.Empty : "is-hidden")"
+                                 src="@(Model.HasCurrentImage ? Model.CurrentImagePath : string.Empty)"
+                                 alt="Employee preview" />
+
+                            <div id="upload-preview-placeholder" class="preview-placeholder @(Model.HasCurrentImage ? "is-hidden" : string.Empty)">
+                                Upload a square image to make the directory look cleaner.
+                            </div>
+                        </div>
+
+                        <div class="d-grid gap-2 d-sm-flex mt-4">
+                            <button type="submit" class="btn btn-primary btn-lg px-4">@(Model.IsEditing ? "Save Changes" : "Add Employee")</button>
+
+                            @if (Model.IsEditing)
+                            {
+                                <button type="submit" asp-page-handler="CancelEdit" asp-route-pageNumber="@Model.PageNumber" formnovalidate class="btn btn-outline-secondary btn-lg px-4">
+                                    Cancel
+                                </button>
+                            }
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-8">
+            <div class="card directory-card board-card border-0 shadow-lg">
+                <div class="board-header">
+                    <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-3">
+                        <div>
+                            <span class="section-tag section-tag-light">Employee Directory</span>
+                            <h2 class="h4 text-white mt-3 mb-1">Directory Overview</h2>
+                            <p class="board-copy mb-0">A simple table view with edit and delete actions on the same page.</p>
+                        </div>
+                        <div class="stats-badge">@Model.TotalEmployees record@(Model.TotalEmployees == 1 ? string.Empty : "s")</div>
+                    </div>
+                </div>
+
+                <div class="table-panel">
+                    @if (Model.Employees.Count == 0)
+                    {
+                        <div class="empty-state">
+                            <h3 class="h5 mb-2">No employees added yet</h3>
+                            <p class="mb-0 text-secondary">Use the form on the left to create the first employee.</p>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="table-responsive">
+                            <table class="table table-directory align-middle mb-0">
+                                <thead>
+                                    <tr>
+                                        <th>Image</th>
+                                        <th>First Name</th>
+                                        <th>Last Name</th>
+                                        <th>Email</th>
+                                        <th>Age</th>
+                                        <th class="text-end">Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var employee in Model.Employees)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @if (!string.IsNullOrWhiteSpace(employee.ImagePath))
+                                                {
+                                                    <img src="@employee.ImagePath" alt="@($"{employee.FirstName} {employee.LastName}")" class="employee-thumb" />
+                                                }
+                                                else
+                                                {
+                                                    <div class="employee-thumb employee-thumb-fallback">@Model.GetInitials(employee)</div>
+                                                }
+                                            </td>
+                                            <td class="fw-semibold">@employee.FirstName</td>
+                                            <td>@employee.LastName</td>
+                                            <td>
+                                                <a href="mailto:@employee.Email" class="directory-link">@employee.Email</a>
+                                            </td>
+                                            <td>@employee.Age</td>
+                                            <td class="text-end">
+                                                <div class="d-inline-flex flex-wrap justify-content-end gap-2">
+                                                    <a asp-page="/Index" asp-route-editId="@employee.Id" asp-route-pageNumber="@Model.PageNumber" class="btn btn-sm btn-light">
+                                                        Edit
+                                                    </a>
+
+                                                    <form method="post" asp-page-handler="Delete" class="d-inline">
+                                                        <input type="hidden" name="id" value="@employee.Id" />
+                                                        <input type="hidden" name="pageNumber" value="@Model.PageNumber" />
+                                                        <button type="submit" class="btn btn-sm btn-outline-danger" onclick="return confirm('Delete this employee?');">
+                                                            Delete
+                                                        </button>
+                                                    </form>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                </div>
+
+                @if (Model.TotalPages > 1)
+                {
+                    <div class="board-footer">
+                        <span class="text-secondary small">Page @Model.PageNumber of @Model.TotalPages</span>
+                        <div class="d-flex gap-2">
+                            <a asp-page="/Index" asp-route-pageNumber="@(Model.PageNumber - 1)" class="btn btn-sm btn-outline-secondary @(Model.PageNumber <= 1 ? "disabled" : string.Empty)">
+                                Previous
+                            </a>
+                            <a asp-page="/Index" asp-route-pageNumber="@(Model.PageNumber + 1)" class="btn btn-sm btn-outline-secondary @(Model.PageNumber >= Model.TotalPages ? "disabled" : string.Empty)">
+                                Next
+                            </a>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
