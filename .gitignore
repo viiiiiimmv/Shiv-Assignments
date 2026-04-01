@@ -1,2 +1,7 @@
+.DS_Store
 .idea/
-.DS_Store/
+.vs/
+*.user
+*.log
+**/bin/
+**/obj/

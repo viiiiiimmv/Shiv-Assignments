@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AZURE-MVC/AZURE-MVC.csproj" />
+  <Project Path="WebApilnAsp/WebApilnAsp.csproj" />
+</Solution>
