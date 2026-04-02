@@ -1,0 +1,61 @@
+﻿@{
+    ViewBag.Title = "Export Employee Data";
+}
+
+<h3>Export Employee Data</h3>
+
+<div class="mb-3">
+    <input type="text" id="searchText" class="form-control" placeholder="Search term (optional)" />
+</div>
+<button class="btn btn-success" id="btnExport">Export to Excel</button>
+
+<script>
+    $(document).ready(function () {
+        $("#btnExport").click(async function () {
+            const search = $("#searchText").val() || "";
+            const token = window.appAuth ? window.appAuth.getToken() : null;
+
+            if (!token) {
+                if (window.appAuth) {
+                    window.appAuth.redirectToLogin();
+                }
+                return;
+            }
+
+            try {
+                const response = await fetch(`/api/Emp/export/excel?search=${encodeURIComponent(search)}`, {
+                    headers: {
+                        Authorization: `Bearer ${token}`
+                    }
+                });
+
+                if (response.status === 401) {
+                    if (window.appAuth) {
+                        window.appAuth.clearAuth();
+                        window.appAuth.redirectToLogin();
+                    }
+                    return;
+                }
+
+                if (!response.ok) {
+                    throw new Error("Export failed.");
+                }
+
+                const blob = await response.blob();
+                const url = window.URL.createObjectURL(blob);
+                const link = document.createElement("a");
+                link.href = url;
+                link.download = "Employees.xlsx";
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+                window.URL.revokeObjectURL(url);
+            } catch (error) {
+                alert("Unable to export employee data right now.");
+            }
+        });
+    });
+</script>
+
+
+

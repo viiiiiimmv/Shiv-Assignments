@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/WEBAPI-DEMO.props" />
-</Project>

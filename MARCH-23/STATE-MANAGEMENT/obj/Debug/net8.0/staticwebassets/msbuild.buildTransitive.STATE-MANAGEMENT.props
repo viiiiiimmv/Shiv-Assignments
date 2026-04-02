@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/STATE-MANAGEMENT.props" />
-</Project>

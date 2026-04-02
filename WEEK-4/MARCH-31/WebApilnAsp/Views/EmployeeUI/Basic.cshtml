@@ -1,0 +1,73 @@
+@model IEnumerable<WebApilnAsp.Models.EmployeeDTO>
+
+@{
+    ViewData["Title"] = "Basic";
+    var pageNumber = ViewBag.PageNumber is int currentPage ? currentPage : 1;
+    var pageSize = ViewBag.PageSize is int currentPageSize ? currentPageSize : 5;
+    var search = ViewBag.Search as string;
+    var hasNextPage = (Model?.Count() ?? 0) == pageSize;
+}
+
+<h1>Basic</h1>
+
+<p>
+    <a asp-action="Index">Back to Full List</a> |
+    <a asp-action="ExportExcel" asp-route-search="@search">Export to Excel</a>
+</p>
+
+<form asp-action="Basic" method="get">
+    <div class="form-group">
+        <label for="search" class="control-label">Search</label>
+        <input type="text" id="search" name="search" value="@search" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="hidden" name="pageSize" value="@pageSize" />
+        <input type="submit" value="Search" class="btn btn-primary" />
+    </div>
+</form>
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>@Html.DisplayNameFor(model => model.FirstName)</th>
+            <th>@Html.DisplayNameFor(model => model.LastName)</th>
+            <th>@Html.DisplayNameFor(model => model.Email)</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model ?? Enumerable.Empty<EmployeeDTO>())
+{
+        <tr>
+            <td>
+                @if (!string.IsNullOrWhiteSpace(item.ImageUrl))
+                {
+                    <img src="@item.ImageUrl" alt="Employee image" class="img-thumbnail" width="80" />
+                }
+                else
+                {
+                    <span>No Image</span>
+                }
+            </td>
+            <td>@Html.DisplayFor(modelItem => item.FirstName)</td>
+            <td>@Html.DisplayFor(modelItem => item.LastName)</td>
+            <td>@Html.DisplayFor(modelItem => item.Email)</td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div>
+    @if (pageNumber > 1)
+    {
+        <a asp-action="Basic" asp-route-page="@(pageNumber - 1)" asp-route-pageSize="@pageSize" asp-route-search="@search">Previous</a>
+        <text> | </text>
+    }
+
+    @if (hasNextPage)
+    {
+        <a asp-action="Basic" asp-route-page="@(pageNumber + 1)" asp-route-pageSize="@pageSize" asp-route-search="@search">Next</a>
+    }
+</div>

@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/STATE-MANAGEMENT.props" />
-</Project>
