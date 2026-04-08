@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductAPIClient\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductAPIClient\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductAPIClient\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductAPIClient\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductAPIClient\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductAPIClient\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductAPIClient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductAPIClient\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 17,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Program.cs",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Program.cs",
+              "ToolTip": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Program.cs",
+              "RelativeToolTip": "ProductAPIClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:50:33.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ProductAPIClient\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T04:40:40.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ProductAPIClient\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T04:37:27.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductAPIClient\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:35:54.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProductAPIClient\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T04:37:25.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductAPIClient\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T04:33:57.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductAPIClient\\appsettings.json",
+              "ToolTip": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\appsettings.json",
+              "RelativeToolTip": "ProductAPIClient\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T04:23:57.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProductAPIClient\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lokes\\OneDrive\\Desktop\\Shiv\\Shiv-Assignments\\WEEK-5\\APRIL-8\\Day64\\ProductAPIClient\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ProductAPIClient\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:37:34.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 17,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
