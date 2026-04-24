@@ -1,0 +1,1 @@
+Today's tasks included exposure to various git commands that are required for uploading the code to github and also learnt about the purpose of different commands and roles they play.
