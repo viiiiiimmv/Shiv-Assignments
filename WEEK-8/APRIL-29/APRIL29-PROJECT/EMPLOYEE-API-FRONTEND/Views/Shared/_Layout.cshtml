@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - EMPLOYEE_API_FRONTEND</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.3/dist/quartz/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/EMPLOYEE_API_FRONTEND.styles.css" asp-append-version="true" />
+    <style>
+            body {
+                background-color: #f5f5f5;
+            }
+
+            .accordion-button {
+                font-weight: 500;
+            }
+
+            a {
+                text-decoration: none;
+            }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-primary px-3">
+        <a class="navbar-brand" href="/">Employee Dashboard</a>
+    </nav>
+
+    <div class="container-fluid">
+        <div class="row">
+
+            <!-- Sidebar -->
+            <div class="col-md-2 bg-light p-3">
+                <div class="accordion" id="sidebarMenu">
+
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#menu1">
+                                Employee
+                            </button>
+                        </h2>
+                        <div id="menu1" class="accordion-collapse collapse show">
+                            <div class="accordion-body">
+                                <ul class="list-unstyled">
+                                    <li><a asp-controller="Employee" asp-action="Index" class="btn btn-success mb-3">Employee List</a></li>
+                                    <li><a asp-controller="Employee" asp-action="Create" class="btn btn-success mb-3">Add Employee</a></li>
+                                    <li><a asp-controller="Employee" asp-action="Export" class="btn btn-success mb-3">Export to Excel</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- Main Content -->
+            <div class="col-md-10 p-4">
+                @RenderBody()
+            </div>
+
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
